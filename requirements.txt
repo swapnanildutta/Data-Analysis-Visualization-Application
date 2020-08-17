@@ -1,0 +1,4 @@
+seaborn==0.10.1
+matplotlib
+pandas
+tkinter
